@@ -22,9 +22,20 @@ if( num > 2) {
 }
 
 
-function sayhello() {
-    alert("hello")
-}
+// function sayhello() {
+//     axios.get('localhost:8080/get',{
+//         password: 1234;
+//     }).then((res) => {
+//         if(res.status === 404) {
+//             alert('Cannot found')
+//         } else if (res.status === 200) {
+//             res.data[0];
+//         } else {
+//             alert('')
+//         }
+
+//     })
+// }
 
 
 
